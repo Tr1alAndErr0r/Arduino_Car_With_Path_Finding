@@ -1,4 +1,4 @@
-Final project for embedded systems, car with path finding for a given course.
+Final project for embedded systems, car with path finding for a given course. Team Members: Sean Adams, Duc Le, Vlad Makarov, Bill Adona
 
 Videos:
 
